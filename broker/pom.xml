@@ -10,7 +10,7 @@
 
     <artifactId>moquette-broker</artifactId>
     <packaging>jar</packaging>
-    <name>Moquette - broker</name>
+    <name>wildfirechat - broker</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
